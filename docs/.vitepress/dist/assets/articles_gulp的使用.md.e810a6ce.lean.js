@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.ac0c98f9.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/gulp的使用.md"}'),r={name:"articles/gulp的使用.md"};function s(c,o,n,p,_,i){return a(),t("div")}const m=e(r,[["render",s]]);export{d as __pageData,m as default};

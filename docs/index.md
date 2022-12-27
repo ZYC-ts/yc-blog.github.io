@@ -1,15 +1,15 @@
 ---
 layout: home
 
-title: Kitty
+title: ycBlog
 titleTemplate: 一个Vue3组件库
 
 hero:
-  name: Kitty
-  text: 一个Vue3组件库
-  tagline: 没啥特点仅供学习
+  name: YC的博客
+  text: 练习时长两年半
+  tagline: 可爱又迷人的反派角色
   image:
-    src: /logo.png
+    src: /avatar.jpg
     alt: Kitty
   actions:
     - theme: brand
@@ -17,7 +17,7 @@ hero:
       link: /guide/
     - theme: alt
       text: 在 Gitee 上查看
-      link: https://gitee.com/geeksdidi/kittyui
+      link: https://gitee.com/yc_zhou
 
 features:
   - icon: 💡
